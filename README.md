@@ -1,11 +1,11 @@
-<h1 align="center">Project Name Movix.Stream</h1>
+<h1 align="center">Projec Name Movix.Stream</h1>
 <h3 align="center">Website Film Recomandtions</h3>
 
-- 🔭 Promotions in Instagram **Movix.Stream**
+- 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/p/C62R4mThhStfnIUkC_dmeb2gXT3M1cTDHSw-cU0/)
 
-- 👯 we looking to collaborate on **Movix.Stream**
+- 👯 I’m looking to collaborate on **Movix.Stream**
 
-- 💬 Ask me about **Project website**
+- 💬 Ask me about **Projec website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
