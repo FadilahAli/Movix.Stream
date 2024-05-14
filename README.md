@@ -7,11 +7,21 @@
 
 - 💬 Ask me about **Projec website**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkelind : www.linkedin.com/in/fadilah-inayat-ali-699467288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkelind : www.linkedin.com/in/fadilah-inayat-ali-699467288" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fadilah ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadilah ali" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+# Movix Steram
+Movix.Stream is the ideal partner for film fans who want to explore the cinematic world without the hassle of choosing. With Movix.Stream, users will get recommendations that match their preferences without any hassle. By using a smart algorithm, this application understands user preferences based on genre and previous film ratings, so it can provide the right recommendations. With Movix.Stream, the movie watching experience will reach a new level, making the search for the perfect movie easier and more fun.
+
+
+## Authors
+
+- [@FadilahAli](https://www.github.com/FadilahAli)
+- [@FadilahAli](https://github.com/anismubarokah21)
+- [@Fahmi](https://github.com/fahmiiihb)
+- [@Dila](https://github.com/dilanrilyh )
+![Logo](https://github.com/FadilahAli/Movix.Stream/blob/main/logo.png)
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
