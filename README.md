@@ -1,4 +1,4 @@
-<h1 align="center">Projec Name Movix.Stream</h1>
+<h1 align="center">Movix.Stream</h1>
 <h3 align="center">Website Film Recomandtions</h3>
 
 - 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/reel/C63GP8bPm2o/?igsh=bTdoNnNidzB0Y3g5)
