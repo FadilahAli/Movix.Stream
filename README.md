@@ -1,11 +1,8 @@
 <h1 align="center">Projec Name Movix.Stream</h1>
 <h3 align="center">Website Film Recomandtions</h3>
 
-- 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/p/C62R4mThhStfnIUkC_dmeb2gXT3M1cTDHSw-cU0/)
-
-- 👯 I’m looking to collaborate on **Movix.Stream**
-
-- 💬 Ask me about **Projec website**
+- 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/reel/C63GP8bPm2o/?igsh=bTdoNnNidzB0Y3g5)
+- 💬 Ask me about [Linkelind](www.linkedin.com/in/fadilah-inayat-ali-699467288)
 
 
 # Movix Steram
