@@ -18,6 +18,9 @@ Movix.Stream is the ideal partner for film fans who want to explore the cinemati
 - [@FadilahAli](https://github.com/anismubarokah21)
 - [@Fahmi](https://github.com/fahmiiihb)
 - [@Dila](https://github.com/dilanrilyh )
+
+
+## Logo
 ![Logo](https://github.com/FadilahAli/Movix.Stream/blob/main/logo.png)
 
 
