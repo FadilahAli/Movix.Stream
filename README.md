@@ -4,6 +4,7 @@
 - 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/reel/C63GP8bPm2o/?igsh=bTdoNnNidzB0Y3g5)
 - 💬 Ask me about [Linkelind](www.linkedin.com/in/fadilah-inayat-ali-699467288)
 - Link Project [MovixStream](https://github.com/FadilahAli/MovixStream)
+- PPT [PPT](https://www.canva.com/design/DAGJI2uLlM4/mF9JO0TV74IQWA4RB-3kFA/edit?utm_content=DAGJI2uLlM4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 # Movix Stream
