@@ -3,7 +3,7 @@
 
 - 🔭 Promotions in Instagram [Movix.Stream](https://www.instagram.com/reel/C63GP8bPm2o/?igsh=bTdoNnNidzB0Y3g5)
 - 💬 Ask me about [Linkelind](www.linkedin.com/in/fadilah-inayat-ali-699467288)
-- Link Project [MovixStream](www.linkedin.com/in/fadilah-inayat-ali-699467288)
+- Link Project [MovixStream](https://github.com/FadilahAli/MovixStream)
 
 
 # Movix Stream
