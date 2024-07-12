@@ -4,6 +4,7 @@
 - Promotions in Instagram [Movix.Stream](https://www.instagram.com/reel/C63GP8bPm2o/?igsh=bTdoNnNidzB0Y3g5)
 - Ask me about [Linkelind](www.linkedin.com/in/fadilah-inayat-ali-699467288)
 - Link Project [MovixStream](https://github.com/FadilahAli/MovixStream)
+- Paper [Paper]
 - PPT [PPT](https://www.canva.com/design/DAGJI2uLlM4/mF9JO0TV74IQWA4RB-3kFA/edit?utm_content=DAGJI2uLlM4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Google Colabs [Colab](https://colab.research.google.com/drive/1k9-McLSod3wehD9JlBOs7isUwd7VfXHt)
 - Youtube [Branding](https://youtu.be/8_l0hNInQA4)
